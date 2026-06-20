@@ -153,7 +153,6 @@ To help businesses innovate faster by delivering reliable, scalable, and user-fo
 
 Email: [hello@syniqs.com](mailto:hello@syniqs.com)
 Website: https://syniqs.com
-LinkedIn: https://linkedin.com/company/syniqs
 
 ---
 
